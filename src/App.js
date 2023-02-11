@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+import Hero from "./components/Hero/Hero"
 function App() {
   console.log (logo);
   return (
@@ -19,6 +19,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <Hero/>
     </div>
   );
 }
