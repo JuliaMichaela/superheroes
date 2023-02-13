@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/superheroes/static/css/main.f7754432.css",
+    "main.js": "/superheroes/static/js/main.6b747745.js",
+    "static/js/787.e69b19e3.chunk.js": "/superheroes/static/js/787.e69b19e3.chunk.js",
+    "static/media/tor.jpg": "/superheroes/static/media/tor.75e8889f2fdaa8a7b113.jpg",
+    "static/media/spiderMan.jpg": "/superheroes/static/media/spiderMan.9596ec8590c6588ca623.jpg",
+    "static/media/superMan.jpg": "/superheroes/static/media/superMan.bf27749145595df87bb5.jpg",
+    "static/media/hulk.jpg": "/superheroes/static/media/hulk.175e6fdc6f52784006af.jpg",
+    "static/media/ironMan.jpg": "/superheroes/static/media/ironMan.fc039ab60484ce43e496.jpg",
+    "static/media/batMan.jpg": "/superheroes/static/media/batMan.3a52f192df6a625b7f3d.jpg",
+    "index.html": "/superheroes/index.html",
+    "main.f7754432.css.map": "/superheroes/static/css/main.f7754432.css.map",
+    "main.6b747745.js.map": "/superheroes/static/js/main.6b747745.js.map",
+    "787.e69b19e3.chunk.js.map": "/superheroes/static/js/787.e69b19e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7754432.css",
+    "static/js/main.6b747745.js"
+  ]
+}
