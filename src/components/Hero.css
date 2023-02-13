@@ -1,0 +1,29 @@
+h2 {
+    text-align: center;
+}
+
+.heroes-container {
+    width: 90%;
+    padding: 3rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 2rem 2rem;
+    background: black;
+}
+
+.superhero {
+    background: white;
+    text-align: justify;
+    border-radius: none;
+    padding: 0.5rem 1.5rem;
+}
+
+span {
+    font-weight: bold;
+}
+
+.hero-image {
+    width: 100%;
+    object-fit: cover;
+}
